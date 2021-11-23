@@ -3,13 +3,13 @@
 
 int main(){
     int num1, num2;
-    int s= 0;
+    int sum= 0;
     
     printf("Enter the first number:");
     scanf("%s", num1);
      printf("Enter the first number:");
     scanf("%s", num2);
     sum=a+b;
-   printf("sum of  numbers",s);
+   printf("sum of  numbers",sum);
    
 }
