@@ -6,9 +6,9 @@ int main(){
     int sum= 0;
     
     printf("Enter the first number:");
-    scanf("%s", b1);
+    scanf("%d", b1);
      printf("Enter the first number:");
-    scanf("%s", b2);
+    scanf("%d", b2);
     sum=a1+a2;
    printf("sum of  numbers",sum);
    
