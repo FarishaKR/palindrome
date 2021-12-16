@@ -14,6 +14,6 @@ break;
 }    
 }    
 if(flag==0)    
-printf("Number is prime");     
+printf("Number is prime number");     
 return 0;  
  }    
